@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+venv/
+.DS_Store
+*.test
+*.coverprofile
+coverage.txt
+coverprofile.out
+.python-version
+node_modules
+openapi/_build
